@@ -9,6 +9,11 @@ body .wrap-body {
 	background-size: 100%;
 	color: #ffff;
 }
+header {
+    padding: 10px;
+}
+
+  
 /* BACKGROUND IMAGE END */
 /* MENU */
 .wrap-body{
@@ -73,10 +78,6 @@ body .wrap-body {
 	margin-top: 10px;
 }
 /* FOOTER END */
-header {
-    padding: 5px;
-}
 
-  
   
  
