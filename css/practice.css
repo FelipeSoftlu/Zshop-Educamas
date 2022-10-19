@@ -6,12 +6,14 @@ body .wrap-body {
 	position: relative;
     background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: 1300px;
+	background-size: 100%;
 	color: #ffff;
 }
 /* BACKGROUND IMAGE END */
 /* MENU */
-
+.wrap-body{
+    width: 100%;
+}
 .logoinicio{
     color: #889;
     display: inline;
