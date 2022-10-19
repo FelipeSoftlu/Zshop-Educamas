@@ -1,1 +1,12 @@
-git
+/* BACKGROUND IMAGE */
+
+body .wrap-body {
+	background-image: url(../images/bg3.jpg);
+	background-position: center center;
+	position: relative;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1300px;
+	color: #ffff;
+}
+/* BACKGROUND IMAGE END */
